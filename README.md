@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Duke Mtambo
-- 👀 I’m interested in blockchain (solana to specific) and web3 projects
-- 🌱 I’m currently working on a web3 project called Wezesha
+- 👀 I’m interested in blockchain technology (solana to specific) and web3 projects
+- 🌱 I’m currently working on a web3 projects at Wezesha DAO
 - 💞️ I’m looking to collaborate and work with web3 / solana blockchain devs.
 
 
