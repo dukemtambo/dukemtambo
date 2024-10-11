@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Duke Mtambo.
 - 👀 I’m interested in Web3.0, Blockchain and the Network State.
-- 🌱 I’m currently developing web3 projects at Wezesha Startup Society.
+- 🌱 I’m currently developing web3 projects at Wezesha Lab.
 - 💞️ I’m looking to collaborate and work with web3 developers
 
 
